@@ -10,8 +10,8 @@ _This webpage is a portfolio of myself that includes my background, interest, an
 
 ## Setup/Installation Requirements
 
-* _To setup, please follow link bel_
-* _ https://codybru10.github.io/portfolio/ _
+* _To setup, please follow link below_
+* https://codybru10.github.io/portfolio/
 
 ## Support and contact details
 
