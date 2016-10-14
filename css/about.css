@@ -14,3 +14,20 @@ img {
 .col-md-9 a {
   font-size: 16px;
 }
+
+.bold {
+  font-weight: bold;
+}
+
+body {
+  margin-top: 10px;
+}
+
+body {
+  background-image: url(../img/about3.jpg);
+background-repeat: no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
