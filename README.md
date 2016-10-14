@@ -10,14 +10,8 @@ _This webpage is a portfolio of myself that includes my background, interest, an
 
 ## Setup/Installation Requirements
 
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-## Known Bugs
-
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+* _To setup, please follow link bel_
+* _ https://codybru10.github.io/portfolio/ _
 
 ## Support and contact details
 
