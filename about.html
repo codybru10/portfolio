@@ -6,19 +6,34 @@
     <title>About Me</title>
   </head>
   <body>
-    <div class="container container-fluid">
-<!--About me header-->
-      <div class="jumbotron">
-          <h2>About Me</h2>
-          <p>
-            I am currently attending Epicodus in Portland, OR to become a web developer.   For the past 2 years I have been working as an accountant for a small insurance agency.  I decided to change careers and pursue a career that will challenge me and keep my interest, as it is an ever evolving industry.
-          </p>
-      </div>
-<!--sidebar with picture and info-->
+    <div class="container-fluid">
+<!--About me navbar-->
+      <nav class="navbar">
+        <div class="navbar-header navbar-left">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" ></button>
+          <a class="navbar-brand" href="index.html">Home</a>
+        </div>
+
+        <div class="navbar-header navbar-right">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"></button>
+          <a class="navbar-brand" href="contact.html">Contact</a>
+        </div>
+
+        <div class="navbar-header navbar-right">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"></button>
+          <a class="navbar-brand" href="projects.html">Projects</a>
+        </div>
+
+        <div class="navbar-header navbar-right">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"></button>
+          <a class="navbar-brand" href="https://github.com/codybru10">GitHub</a>
+        </div>
+      </nav>
+      <!--sidebar with picture and about me-->
       <div class="container well">
         <div class="row">
 
-          <div class="col-md-3">
+          <div class="col-md-4">
             <img src="img/me.jpg" alt="A photo of me">
             <h6><span class="bold">Name:</span> <em>Cody Brubaker</em></h6>
             <h6><span class="bold">Age:</span> 25</h6>
@@ -29,23 +44,11 @@
             <h6>Phone: 419-307-2252</h6>
           </div>
 
-        <div class="col-md-9">
-          <h4>GitHub Projects</h4>
-          <ul>
-            <li><a href="https://github.com/codybru10/animals">Animal Shelter Webpage</a></li>
+          <div class="col-md-8">
+            <h2>About Me</h2>
             <p>
-              This is a webpage for an Animal Shelter that we created using HTML and CSS.
-            </p>
-            <li><a href="https://github.com/codybru10/wiki">Wiki Recreation</a></li>
-            <p>
-              This was an exercise to recreate the wikipedia home page using HTML, CSS, and Bootstrap.
-            </p>
-            <li><a href="https://github.com/codybru10/blog">Blog</a></li>
-            <p>
-              This was an exercise to create a simple blog with HTML and CSS.
-            </p>
-          </ul>
-        </div>
+              I am currently attending Epicodus in Portland, OR to become a web developer.   For the past 2 years I have been working as an accountant for a small insurance agency.  I decided to change careers and pursue a career that will challenge me and keep my interest, as it is an ever evolving industry.
+          </div>
 
         </div>
       </div>
